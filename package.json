@@ -1,0 +1,31 @@
+{
+  "name": "shortylink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirigableNorge/ShortyLink.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Tarasyi Tenytskyi <dirigableNorge@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirigableNorge/ShortyLink/issues"
+  },
+  "homepage": "https://github.com/dirigableNorge/ShortyLink#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0",
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.10",
+    "nodemon": "^2.0.2"
+  }
+}
