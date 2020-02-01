@@ -1,4 +1,5 @@
 {
     "port": 5000,
+    "jwtSercet": "secret line",
     "mongoURI": "mongodb+srv://uadmin:sh0rtl1nkDB@cluster0-aovlj.azure.mongodb.net/app?retryWrites=true&w=majority"
 }
